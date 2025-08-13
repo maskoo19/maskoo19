@@ -1,16 +1,13 @@
-###
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Hi 👋 I'm Maskoo;Studying at ESI Bruxelles;Full-stack / Mobile developer;Always Be Grateful To Allah" alt="Typing SVG" />
+<p align="center" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=2500&pause=1600&color=5480F7&center=true&vCenter=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Maskoo;Studying+at+ESI+Bruxelles;Full-stack+%2F+Mobile+developer;Always+Be+Grateful+To+Allah" alt="Typing SVG" />
 </p>
 
 ###
 <div align="center">
   <a type="text" href="https://www.x.com/mousss_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  /> </a>
   <a href="mailto:maskoo.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /> </a>
 </div>
 
 ###
