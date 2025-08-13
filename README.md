@@ -1,9 +1,9 @@
+###
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/736x/0f/a3/ca/0fa3cae065ace9dab7a2cc24a489e2d3.jpg"  />
+  <img height="65" src="https://readme-typing-svg.herokuapp.com/?size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Hi 👋 I'm Mousss;Studying at ESI Bruxelles;Full-stack / Mobile developer;Always Be Grateful To Allah"  />
 </div>
 
 ###
-
 <div align="center">
   <a href="x.com/mousss_dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
@@ -12,12 +12,6 @@
   <a href="maskoo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="65" src="https://readme-typing-svg.herokuapp.com/?size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Hi 👋 I'm Mousss;Studying at ESI Bruxelles;Full-stack / Mobile developer;Always Be Grateful To Allah"  />
 </div>
 
 ###
