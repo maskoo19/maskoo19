@@ -5,7 +5,7 @@
 
 ###
 <div align="center">
-  <a type="text" href="x.com/mousss_dev" target="_blank">
+  <a type="text" href="https://www.x.com/mousss_dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
   <a href="mailto:maskoo.dev@gmail.com" target="_blank">
