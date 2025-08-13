@@ -11,9 +11,11 @@
   </a>
 </div>
 
+<h1 align="left">⚙️Skills</h1>
+
 ###
 
-<h3 align="left">🌐Web</h3>
+<h3 align="left">🌐Web</h2>
 
 ###
 
@@ -39,7 +41,7 @@
 
 ###
 
-<h3 align="left">📱Mobile</h3>
+<h3 align="left">📱Mobile</h2>
 
 ###
 
@@ -53,7 +55,7 @@
 
 ###
 
-<h3 align="left">➕Other</h3>
+<h3 align="left">➕Other</h2>
 
 ###
 
@@ -83,6 +85,33 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+</div>
+
+###
+###
+
+###
+
+<h1 align="left">🏫Education</h1>
+
+###
+
+<h3 align="left">ESI Bruxelles (HE2B)</h3>
+
+###
+
+<div align="left">
+  <img height="80" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo-esi.png/250px-Logo-esi.png"  />
+</div>
+
+###
+
+<h3 align="left">Université Libre de Bruxelles (ULB)</h3>
+
+###
+
+<div align="left">
+  <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/ULB_logo3lp.svg"  />
 </div>
 
 ###
