@@ -88,20 +88,17 @@
 </div>
 
 ###
-###
-
-###
 
 <h1 align="left">🏫Education</h1>
 
 ###
-
 <h3 align="left">ESI Bruxelles (HE2B)</h3>
 
 ###
-
 <div align="left">
-  <img height="80" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo-esi.png/250px-Logo-esi.png"  />
+	<a href="https://he2b.be" target="_blank">
+		<img height="80" src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo-esi.png/250px-Logo-esi.png"/>
+	</a>
 </div>
 
 ###
@@ -111,7 +108,9 @@
 ###
 
 <div align="left">
-  <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/ULB_logo3lp.svg"  />
+  <a href="https://ulb.be" target="_blank">
+		<img height="80" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/ULB_logo3lp.svg"/>
+	</a>
 </div>
 
 ###
