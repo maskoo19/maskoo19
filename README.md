@@ -1,6 +1,6 @@
 ###
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Hi 👋 I'm Mousss;Studying at ESI Bruxelles;Full-stack / Mobile developer;Always Be Grateful To Allah" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Hi 👋 I'm Maskoo;Studying at ESI Bruxelles;Full-stack / Mobile developer;Always Be Grateful To Allah" alt="Typing SVG" />
 </p>
 
 ###
