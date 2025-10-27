@@ -12,11 +12,11 @@
   </a> -->
 </div>
 
-<h1 align="left">⚙️Skills</h1>
+<h1 align="left">⚙️ Skills</h1>
 
 ###
 
-<h3 align="left">🌐Web</h2>
+<h3 align="left">🌐 Web</h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">📱Mobile</h2>
+<h3 align="left">📱 Mobile</h2>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h3 align="left">➕Other</h2>
+<h3 align="left">➕ Other</h2>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h3 align="left">🛠️Tools</h3>
+<h3 align="left">🛠️ Tools</h3>
 
 ###
 
@@ -97,7 +97,7 @@
 
 ###
 
-<h1 align="left">🏫Education</h1>
+<h1 align="left">🏫 Education</h1>
 
 ###
 <h3 align="left">ESI Bruxelles (HE2B)</h3>
